@@ -7,10 +7,12 @@ export default function About() {
             Hi, I'm Tyler.
             <br className="hidden lg:inline-block" />I am a passionate up and coming full-stack web developer.
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          <p className="mb-8 leading-relaxed text-gray-300">
+          When it comes to logic based programming I am your guy. I taught myself python and have created a scheduling program that takes in user data and assigns employees to the needed positions based on requested number of workers per day. I also enjoy sifting through databases and trying to think of unique ways of using the data within.
+          make the transition within the next year.
+          </p>
+          <p className="mb-8 leading-relaxed text-gray-300">
+          I am a father of two and have been a manager for over 9 years at a local fast paced Forzen Custard shop called Ted Drewes. During Covid I became self motivated enough to pursue coding as career and I hope to 
           </p>
           <div className="flex justify-center">
             <a
